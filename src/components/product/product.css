@@ -1,0 +1,25 @@
+.product{
+    width: 300px;
+    height: 510px;
+    border: 2px solid rebeccapurple;
+    position: relative;
+}
+.product img{
+    width: 286px;
+    height: 286px;
+}
+.product-name{
+
+}
+.button-cart{
+    background-color:#FFE0B3;
+    position: absolute;
+    bottom: 0;
+    height: 48px;
+    width: 100%;
+    border: 1px solid #95A0A7 ;
+    border-radius: 8px;
+}
+.button-cart:hover{
+    background-color: #fca626;
+}
